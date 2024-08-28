@@ -91,7 +91,7 @@
     "PREFIX": {
       "description": "You can leave blank for bot to use multiple prefixes",
       "required": false,
-      "value": "."
+      "value": "°"
     },
      "DEPLOYMENT_PLATFORM": {
       "description": "Leave the value to default unless otherwise. ",
